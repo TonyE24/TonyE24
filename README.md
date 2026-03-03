@@ -17,10 +17,10 @@
 
 Soy un desarrollador que cree que el código no solo debe funcionar, sino que debe ofrecer una experiencia impecable. Me muevo entre el **Frontend** detallista y el **Backend** robusto, buscando siempre el equilibrio entre rendimiento y estética.
 
-- 🔭 **Enfoque actual:** Perfeccionando el desarrollo con **Next.js** y explorando arquitecturas de software escalables.
+- 🔭 **Enfoque actual:** Perfeccionando el desarrollo web con **Next.js** y explorando arquitecturas escalables.
 - 🎨 **Mi filosofía:** Si una interfaz no es intuitiva, el trabajo no está terminado. Me apasiona el **Diseño UI/UX**.
-- 🌱 **Aprendiendo:** Profundizando en **Arquitectura de Software** y optimización de bases de datos.
-- 💬 **Hablemos de:** React, TypeScript, o por qué Tailwind CSS cambió mi forma de trabajar.
+- 🌱 **Aprendiendo:** Arquitectura de Software, y expandiendo mis conocimientos hacia el ecosistema móvil con **Flutter** y bases de datos **Oracle**.
+- 💬 **Hablemos de:** React, buenas prácticas de ciberseguridad, o por qué Tailwind CSS cambió mi forma de trabajar.
 
 ---
 
@@ -54,16 +54,11 @@ Soy un desarrollador que cree que el código no solo debe funcionar, sino que de
 
 ### 📊 Actividad en GitHub
 
-### 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyE24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de TonyE24" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyE24&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="170" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyE24&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Estadísticas Generales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyE24&layout=compact&theme=radical&hide_border=true" height="170" alt="Lenguajes más usados" />
   <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyE24&theme=radical&hide_border=true" alt="Streak de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyE24&theme=radical&hide_border=true" alt="Racha de GitHub" />
 </div>
 
 ---
