@@ -54,11 +54,16 @@ Soy un desarrollador que cree que el código no solo debe funcionar, sino que de
 
 ### 📊 Actividad en GitHub
 
+### 📊 Estadísticas de GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TonyE24&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyE24&layout=compact&theme=radical&hide_border=true" height="170" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyE24&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TonyE24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de TonyE24" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyE24&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="170" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonyE24&theme=radical&hide_border=true" alt="Streak de GitHub" />
 </div>
 
 ---
